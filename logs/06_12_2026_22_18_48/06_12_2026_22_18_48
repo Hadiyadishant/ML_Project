@@ -1,0 +1,12 @@
+[ 2026-06-12 22:18:50,418] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2026-06-12 22:18:51,104] 97 werkzeug - INFO -  * Debugger PIN: 839-191-315
+[ 2026-06-12 22:19:15,925] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:19:15] "GET / HTTP/1.1" 200 -
+[ 2026-06-12 22:19:16,199] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:19:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2026-06-12 22:19:32,230] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:19:32] "GET / HTTP/1.1" 200 -
+[ 2026-06-12 22:19:58,022] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:19:58] "GET /predictdata HTTP/1.1" 200 -
+[ 2026-06-12 22:20:32,105] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:20:32] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2026-06-12 22:20:33,509] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:20:33] "GET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2026-06-12 22:20:33,510] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:20:33] "GET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2026-06-12 22:20:34,227] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:20:34] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=vr1YBWncbYDsvNRrtTxC HTTP/1.1" 200 -
+[ 2026-06-12 22:20:34,265] 97 werkzeug - INFO - 127.0.0.1 - - [12/Jun/2026 22:20:34] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2026-06-12 22:22:03,760] 97 werkzeug - INFO -  * Detected change in 'D:\\Course_Project\\ML_Project\\src\\pipeline\\predict_pipeline.py', reloading
